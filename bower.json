@@ -1,0 +1,26 @@
+{
+  "name": "maptaphor",
+  "version": "0.0.0",
+  "homepage": "http://esjay.github.io/maptaphor/",
+  "authors": [
+    "Wayne <wayne.elgin@gmail.com>"
+  ],
+  "description": "An Interactive Map of Web Libraries and Frameworks to their Respective Metaphors",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.4.3",
+    "lodash": "~2.4.1",
+    "requirejs": "~2.1.11"
+  }
+}
