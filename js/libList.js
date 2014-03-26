@@ -48,8 +48,16 @@ define(function() {
                 "categories": ["templates"],
                 "date_created": null
 
+            },
+            {
+                "name": "Watchman",
+                "uri_location": "https://github.com/facebook/watchman",
+                "uri_image": "",
+                "description": "watches file and takes action when they change",
+                "metaphors": ["Watchmen", "Comics"],
+                "categories": ["Tools"],
+                "date_created": null
             }
-
         ]
     }
 });
